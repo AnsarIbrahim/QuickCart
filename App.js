@@ -7,7 +7,7 @@ export default function App() {
   return (
     <Provider store={store}>
       <Main />
-      <StatusBar style="light" />
+      <StatusBar style="auto" />
     </Provider>
   );
 }
