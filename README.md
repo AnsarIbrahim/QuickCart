@@ -67,7 +67,7 @@ Swift and seamless grocery shopping with QuickCart. This React Native and Redux 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://quickcartapp.netlify.app/)
 - [APK File](https://drive.google.com/file/d/1uqalN4uTiPTALPmljEy9B0-jUpzsjv2Q/view?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
